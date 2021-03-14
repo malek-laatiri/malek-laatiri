@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Malek Laatiri</h1>
+<h1 align="center">I'm Malek Laatiri</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malek-laatiri
 &label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" /> </p>
 
