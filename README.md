@@ -4,6 +4,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-laatiri&include_all_commits=true&theme=dark" alt="malek-laatiri" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek-laatiri&layout=compact&show_icons=true&locale=en&theme=dark" alt="malek-laatiri" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=malek-laatiri)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
