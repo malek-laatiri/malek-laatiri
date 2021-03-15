@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/malek-laatiri-a3515215b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/malek-laatiri-a3515215b/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/malek.laatiri.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/malek.laatiri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
- <a href="https://www.instagram.com/malek.laatiri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
+ <a href="https://www.fiverr.com/maleklaatiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
 
 </p>
  
