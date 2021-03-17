@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Malek Laatiri</h1>
-<div style="  display: grid;
+<div style="display: grid;
   grid-template-columns: 1fr 1fr 1fr;">
 <div> <img src="https://komarev.com/ghpvc/?username=malek-laatiri&label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" /> </div>
 
