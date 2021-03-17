@@ -1,8 +1,14 @@
 
 <h1 align="center">Hi, I'm Malek Laatiri</h1>
- <img src="https://komarev.com/ghpvc/?username=malek-laatiri&label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" />
+<p align="center">
+<a href="https://maleklaatiri.tn/"><img alt="Website" src="https://img.shields.io/badge/Website-maleklaatiri.tn-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/malek-laatiri-a3515215b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-MalekLaatiri-blue?style=flat&logo=linkedin"></a>
+ <a href="https://www.fiverr.com/maleklaatiri"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-malek laatiri-blue?style=flat&logo=fiverr"></a>
 
-<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=malek-laatiri&label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" />
+</p>
+
+<div>
   <a href="https://github.com/malek-laatiri">
 
 
