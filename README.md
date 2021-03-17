@@ -2,7 +2,7 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malek-laatiri&label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-laatiri&include_all_commits=true&theme=dark" alt="malek-laatiri" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-laatiri&include_all_commits=true&theme=dark" alt="malek-laatiri" /></p>
 </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek-laatiri&layout=compact&show_icons=true&locale=en&theme=dark" alt="malek-laatiri" /></p>
 
