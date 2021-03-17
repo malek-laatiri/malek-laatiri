@@ -1,11 +1,7 @@
-<style>
-  .wrapper {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-  </style>
+
 <h1 align="center">Hi, I'm Malek Laatiri</h1>
-<div  class="wrapper">
+<div style="  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;">
 <div> <img src="https://komarev.com/ghpvc/?username=malek-laatiri&label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" /> </div>
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-laatiri&include_all_commits=true&theme=dark" alt="malek-laatiri" /></div>
