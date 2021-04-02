@@ -4,6 +4,7 @@
 <a href="https://maleklaatiri.tn/"><img alt="Website" src="https://img.shields.io/badge/Website-maleklaatiri.tn-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/malek-laatiri-a3515215b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-MalekLaatiri-blue?style=flat&logo=linkedin"></a>
  <a href="https://www.fiverr.com/maleklaatiri"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-malek laatiri-blue?style=flat&logo=fiverr"></a>
+ <a href="https://stackoverflow.com/users/10554673/malek"><img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-malek laatiri-blue?style=flat&logo=stackoverflow"></a>
 
  <img src="https://komarev.com/ghpvc/?username=malek-laatiri&label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" />
 </p>
@@ -27,6 +28,7 @@
 <a href="https://www.facebook.com/malek.laatiri.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/malek.laatiri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
  <a href="https://www.fiverr.com/maleklaatiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/10554673/malek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10554673/malek" height="30" width="40" /></a>
 
 </p>
  
