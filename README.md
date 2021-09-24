@@ -14,8 +14,14 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-laatiri&include_all_commits=true&count_private=true&theme=dark" alt="malek-laatiri" />
+   ``
+
+
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek-laatiri&layout=compact&show_icons=true&locale=en&theme=dark" alt="malek-laatiri" />
+   [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)](https://stackoverflow.com/users/10554673/l3xpert)
+
 </a>
+ 
 </div>
 
 
