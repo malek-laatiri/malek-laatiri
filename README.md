@@ -18,12 +18,13 @@
 
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek-laatiri&layout=compact&show_icons=true&locale=en&theme=dark" alt="malek-laatiri" />
-   [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)](https://stackoverflow.com/users/10554673/l3xpert)
+   &nbsp;
 
 </a>
  
 </div>
 
+   [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)](https://stackoverflow.com/users/10554673/l3xpert)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=malek-laatiri)](https://github.com/ryo-ma/github-profile-trophy)
 
