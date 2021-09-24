@@ -18,9 +18,9 @@
 </a>
 </div>
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=malek-laatiri)](https://github.com/ryo-ma/github-profile-trophy)
    [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)](https://stackoverflow.com/users/10554673/l3xpert)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=malek-laatiri)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
