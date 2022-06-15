@@ -15,23 +15,7 @@
 <p align="center">
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)](https://stackoverflow.com/users/10554673/l3xpert) [![trophy](https://github-profile-trophy.vercel.app/?username=malek-laatiri)](https://github.com/ryo-ma/github-profile-trophy)  
-<!--
-    PeoplePerHour Profile Widget
-    The div#pph-hire me is the element
-    where the iframe will be inserted.
-    You may move this element wherever
-    you need to display the widget
--->
-<div id="pph-hireme"></div>
-<script type="text/javascript">
-(function(d, s) {
-    var useSSL = 'https:' == document.location.protocol;
-    var js, where = d.getElementsByTagName(s)[0],
-    js = d.createElement(s);
-    js.src = (useSSL ? 'https:' : 'http:') +  '//www.peopleperhour.com/hire/1197486553/4956021.js?width=245&height=320&orientation=vertical&theme=dark&hourlies=830019%2C830757&rnd='+parseInt(Math.random()*10000, 10);
-    try { where.parentNode.insertBefore(js, where); } catch (e) { if (typeof console !== 'undefined' && console.log && e.stack) { console.log(e.stack); } }
-}(document, 'script'));
-</script>
+
  
 </p>
 
