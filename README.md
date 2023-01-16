@@ -29,7 +29,24 @@
  <a href="https://stackoverflow.com/users/10554673/malek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10554673/malek" height="30" width="40" /></a>
 
 </p>
- 
+ <p>
+ <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/maleklaatiri rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-354b4799-2617-4ded-a01a-af047f982922' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >maleklaatiri</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hello,I'm malek laatiri,software engineer,I have been freelancing more than 2 years,I have worked with clients all over the world and have developed a professional bond of trust with them.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-354b4799-2617-4ded-a01a-af047f982922' src='https://widgets.fiverr.com/api/v1/seller/maleklaatiri?widget_id=354b4799-2617-4ded-a01a-af047f982922' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
+
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="express" width="40" height="40"/> </a>
