@@ -6,15 +6,13 @@
  <a href="https://stackoverflow.com/users/10554673/malek"><img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-malek laatiri-blue?style=flat&logo=stackoverflow"></a>
  <img src="https://komarev.com/ghpvc/?username=malek-laatiri&label=Profile%20views&color=0e75b6&style=flat" alt="malek-laatiri" />
 </p>
-<div>
-<a href="https://github.com/malek-laatiri">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-laatiri&include_all_commits=true&count_private=true&theme=dark" alt="malek-laatiri" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek-laatiri&layout=compact&show_icons=true&locale=en&theme=dark" alt="malek-laatiri" />
-</a>
-</div>
 <p align="center">
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)](https://stackoverflow.com/users/10554673/l3xpert) [![trophy](https://github-profile-trophy.vercel.app/?username=malek-laatiri)](https://github.com/ryo-ma/github-profile-trophy)  
+![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)
+ <a href="https://github.com/malek-laatiri">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek-laatiri&include_all_commits=true&count_private=true&theme=dark" alt="malek-laatiri" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek-laatiri&layout=compact&show_icons=true&locale=en&theme=dark" alt="malek-laatiri" />
+</a> 
 
  
 </p>
