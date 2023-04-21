@@ -10,7 +10,8 @@
 
 ![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10554673&theme=dark)
  <a href="https://github.com/malek-laatiri">
-;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek-laatiri&layout=compact&show_icons=true&locale=en&theme=dark" alt="malek-laatiri" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malek-laatiri&hide=contribs&count_private=true&show_icons=true&theme=gruvbox&theme=transparent,prs)
+
 </a> 
 
  
