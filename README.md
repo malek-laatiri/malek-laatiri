@@ -13,7 +13,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malek-laatiri&hide=contribs&count_private=true&show_icons=true&theme=gruvbox&theme=transparent,prs)
 
 </a> 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="malek-laatiri" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/malek-laatiri?trk=profile-badge">Malek Laatiri</a></div>
+              
  
 </p>
 
