@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://maleklaatiri.tn/"><img src="https://img.shields.io/badge/🌐_Website-maleklaatiri.tn-0ea5e9?style=for-the-badge" /></a>
+  <!-- <a href="https://maleklaatiri.tn/"><img src="https://img.shields.io/badge/🌐_Website-maleklaatiri.tn-0ea5e9?style=for-the-badge" /></a> -->
   <a href="https://www.linkedin.com/in/malek-laatiri-a3515215b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <!-- <a href="https://www.fiverr.com/maleklaatiri"><img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a> -->
 </p>
